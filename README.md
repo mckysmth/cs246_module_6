@@ -1,5 +1,5 @@
 # Description
-This game is off the classic flappy bird game. It's a replica and interacts similar to the mobile version of flappy bird. It keeps score and Generates random pipes to fly through.
+This is a simple calculator server. The client enters in an equation and the server process and send the results.
 
 # Development Environment
 * Visual Studio Code

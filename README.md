@@ -3,14 +3,13 @@ This game is off the classic flappy bird game. It's a replica and interacts simi
 
 # Development Environment
 * Visual Studio Code
-* Python 3.8.5
+* .NET 5.0
 
 # Execution
-To execute the program: `Python3 main.py`
-<br />
-or
-<br />
-click "run" button
+## Server
+cd server && dotnet run
+## Client 
+cd client && dotnet run
 
 ![alt text](program_running.png)
 

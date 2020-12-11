@@ -1,0 +1,15 @@
+/Users/mckaysmith/Desktop/untitled folder 2/server/bin/Debug/net5.0/server.deps.json
+/Users/mckaysmith/Desktop/untitled folder 2/server/bin/Debug/net5.0/server.runtimeconfig.json
+/Users/mckaysmith/Desktop/untitled folder 2/server/bin/Debug/net5.0/server.runtimeconfig.dev.json
+/Users/mckaysmith/Desktop/untitled folder 2/server/bin/Debug/net5.0/server.dll
+/Users/mckaysmith/Desktop/untitled folder 2/server/bin/Debug/net5.0/ref/server.dll
+/Users/mckaysmith/Desktop/untitled folder 2/server/bin/Debug/net5.0/server.pdb
+/Users/mckaysmith/Desktop/untitled folder 2/server/obj/Debug/net5.0/server.csprojAssemblyReference.cache
+/Users/mckaysmith/Desktop/untitled folder 2/server/obj/Debug/net5.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mckaysmith/Desktop/untitled folder 2/server/obj/Debug/net5.0/server.AssemblyInfoInputs.cache
+/Users/mckaysmith/Desktop/untitled folder 2/server/obj/Debug/net5.0/server.AssemblyInfo.cs
+/Users/mckaysmith/Desktop/untitled folder 2/server/obj/Debug/net5.0/server.csproj.CoreCompileInputs.cache
+/Users/mckaysmith/Desktop/untitled folder 2/server/obj/Debug/net5.0/server.dll
+/Users/mckaysmith/Desktop/untitled folder 2/server/obj/Debug/net5.0/ref/server.dll
+/Users/mckaysmith/Desktop/untitled folder 2/server/obj/Debug/net5.0/server.pdb
+/Users/mckaysmith/Desktop/untitled folder 2/server/obj/Debug/net5.0/server.genruntimeconfig.cache
